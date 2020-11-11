@@ -1,0 +1,22 @@
+{
+  "name": "public_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "asyncawait": "^3.0.0",
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fast-json-stringify": "^2.2.9",
+    "iconv-lite": "^0.6.2",
+    "promise-sequence": "^1.0.0",
+    "promise-sequential": "^1.1.1",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
